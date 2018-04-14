@@ -1,0 +1,40 @@
+﻿CREATE OR REPLACE PROCEDURE STDGW.HR_UPD_CHAE00781_NATION (
+   p_action    VARCHAR, --default
+   p_emp_id        VARCHAR,
+   p_fullname      VARCHAR,
+   p_sex      VARCHAR,
+   p_nation   VARCHAR,
+   p_tel    VARCHAR,
+   p_pk   VARCHAR,
+   p_crt_by    VARCHAR --default
+)
+IS
+   l_count           NUMBER;
+BEGIN
+   IF p_action = 'INSERT' THEN
+        INSERT INTO THR_EMPLOYEE
+        (PK, EMP_ID, FULL_NAME, SEX, NATION, TEL, DEL_IF, CRT_BY, CRT_DT)
+        VALUES
+        (THR_EMPLOYEE_SEQ.NEXTVAL,p_emp_id,p_fullname,p_sex,p_nation,p_tel,0,p_crt_by,SYSDATE);
+   ELSIF p_action = 'UPDATE' THEN
+
+      UPDATE THR_EMPLOYEE A
+         SET A.EMP_ID= p_emp_id,
+             A.FULL_NAME=p_fullname,
+             A.SEX=p_sex,
+             A.mod_by = p_crt_by,
+             A.mod_dt = SYSDATE
+       WHERE A.del_if = 0 AND A.PK= p_pk;
+   ELSE
+         UPDATE THR_EMPLOYEE A
+         SET A.DEL_IF=A.PK,
+             A.mod_by = p_crt_by,
+             A.mod_dt = SYSDATE
+          WHERE A.del_if = 0 AND A.PK=p_pk;
+   END IF;
+EXCEPTION
+   WHEN OTHERS   THEN
+      -- Consider logging the error and then re-raise
+      RAISE;
+END;
+/

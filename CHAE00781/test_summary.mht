@@ -1,0 +1,587 @@
+MIME-Version: 1.0
+X-Document-Type: Worksheet
+Content-Location: file:///C:/B10812B9/test_summary.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="utf-8"
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link rel=3DFile-List href=3D"test_summary_files/filelist.xml">
+<style id=3D"test_summary_28143_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.xl6328143
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:green;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background:#CCFFCC;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6428143
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6528143
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:green;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	background:#CCFFCC;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6628143
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:green;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	background:#CCFFCC;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl6728143
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:"\@";
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6828143
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6928143
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7028143
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:purple;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	background:#FF99CC;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7128143
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:purple;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background:#FF99CC;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7228143
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:purple;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	background:#FF99CC;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7328143
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:purple;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#FF99CC;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7428143
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:purple;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:#FF99CC;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7528143
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:purple;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	border-top:none;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:#FF99CC;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7628143
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:green;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	background:#CCFFCC;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7728143
+	{color:green;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:1.0pt solid windowtext;
+	background:#CCFFCC;
+	mso-pattern:black none;
+	white-space:nowrap;
+	padding-left:423px;
+	mso-char-indent-count:47;}
+-->
+</style>
+</head>
+
+<body>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Excel's Publish as=
+ Web
+Page wizard.-->
+<!--If the same item is republished from Excel, all information between the=
+ DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div id=3D"test_summary_28143" align=3Dcenter x:publishsource=3D"Excel">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D966 class=3Dxl642=
+8143
+ style=3D'border-collapse:collapse;table-layout:fixed;width:726pt'>
+ <col class=3Dxl6428143 width=3D64 style=3D'width:48pt'>
+ <col class=3Dxl6428143 width=3D140 style=3D'mso-width-source:userset;mso-w=
+idth-alt:
+ 5120;width:105pt'>
+ <col class=3Dxl6428143 width=3D188 style=3D'mso-width-source:userset;mso-w=
+idth-alt:
+ 6875;width:141pt'>
+ <col class=3Dxl6428143 width=3D64 style=3D'width:48pt'>
+ <col class=3Dxl6428143 width=3D105 style=3D'mso-width-source:userset;mso-w=
+idth-alt:
+ 3840;width:79pt'>
+ <col class=3Dxl6428143 width=3D130 style=3D'mso-width-source:userset;mso-w=
+idth-alt:
+ 4754;width:98pt'>
+ <col class=3Dxl6428143 width=3D64 style=3D'width:48pt'>
+ <col class=3Dxl6428143 width=3D110 style=3D'mso-width-source:userset;mso-w=
+idth-alt:
+ 4022;width:83pt'>
+ <col class=3Dxl6428143 width=3D101 style=3D'mso-width-source:userset;mso-w=
+idth-alt:
+ 3693;width:76pt'>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl7728143 colspan=3D5 width=3D561 style=3D'height=
+:15.0pt;
+  width:421pt'>List Employee</td>
+  <td class=3Dxl6328143 width=3D130 style=3D'width:98pt'>&nbsp;</td>
+  <td class=3Dxl6328143 width=3D64 style=3D'width:48pt'>&nbsp;</td>
+  <td class=3Dxl6328143 width=3D110 style=3D'width:83pt'>&nbsp;</td>
+  <td class=3Dxl6328143 width=3D101 style=3D'width:76pt'>&nbsp;</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl6528143 style=3D'height:15.0pt'>&nbsp;</td>
+  <td class=3Dxl6628143>&nbsp;</td>
+  <td class=3Dxl6628143>&nbsp;</td>
+  <td class=3Dxl6628143>&nbsp;</td>
+  <td class=3Dxl6628143>&nbsp;</td>
+  <td class=3Dxl7628143>&nbsp;</td>
+  <td class=3Dxl6628143>&nbsp;</td>
+  <td class=3Dxl6628143>&nbsp;</td>
+  <td class=3Dxl6628143>&nbsp;</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl6528143 style=3D'height:15.75pt'>&nbsp;</td>
+  <td class=3Dxl6628143>&nbsp;</td>
+  <td class=3Dxl6628143>&nbsp;</td>
+  <td class=3Dxl6628143>&nbsp;</td>
+  <td class=3Dxl6628143>&nbsp;</td>
+  <td class=3Dxl6628143>&nbsp;</td>
+  <td class=3Dxl6628143>&nbsp;</td>
+  <td class=3Dxl6628143>&nbsp;</td>
+  <td class=3Dxl6628143>&nbsp;</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl7028143 style=3D'height:15.0pt'>No</td>
+  <td class=3Dxl7128143>EMP_ID</td>
+  <td class=3Dxl7128143>FULLNAME</td>
+  <td class=3Dxl7128143>SEX</td>
+  <td class=3Dxl7128143>NATION</td>
+  <td class=3Dxl7128143>TEL</td>
+  <td class=3Dxl7128143>PK</td>
+  <td class=3Dxl7128143>JOINT_DT</td>
+  <td class=3Dxl7228143>BIRTHDAY</td>
+ </tr>
+ <tr height=3D21 style=3D'height:15.75pt'>
+  <td height=3D21 class=3Dxl7328143 style=3D'height:15.75pt'>STT</td>
+  <td class=3Dxl7428143>Mã NV</td>
+  <td class=3Dxl7428143>Họ Tên</td>
+  <td class=3Dxl7428143>Giới tính</td>
+  <td class=3Dxl7428143>Quốc tịch</td>
+  <td class=3Dxl7428143>SĐT</td>
+  <td class=3Dxl7428143>&nbsp;</td>
+  <td class=3Dxl7428143>Ngày bắt đầu</td>
+  <td class=3Dxl7528143>Ngày sinh</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl6928143 style=3D'height:15.0pt'>1</td>
+  <td class=3Dxl6928143 style=3D'border-left:none'>16504747</td>
+  <td class=3Dxl6928143 style=3D'border-left:none'>DƯƠNG TUẤN CƯỜNG<=
+/td>
+  <td class=3Dxl6928143 style=3D'border-left:none'>M</td>
+  <td class=3Dxl6928143 style=3D'border-left:none'>01</td>
+  <td class=3Dxl6928143 style=3D'border-left:none'>0983997610</td>
+  <td class=3Dxl6928143 style=3D'border-left:none'>200</td>
+  <td class=3Dxl6928143 style=3D'border-left:none'>16-05-2016</td>
+  <td class=3Dxl6928143 style=3D'border-left:none'>04-11-1982</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl6828143 style=3D'height:15.0pt;border-top:none'=
+>2</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>16603702=
+</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>TRẦN L=
+Ê KHA</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>F</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>01</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>09034805=
+89</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>202</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>19-05-20=
+16</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>27-05-19=
+85</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl6828143 style=3D'height:15.0pt;border-top:none'=
+>3</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>16503384=
+</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>NGUYỄN=
+ ANH ĐỨC</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>M</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>01</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>09179129=
+89</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>288</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>23-03-20=
+16</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>27-04-19=
+91</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl6828143 style=3D'height:15.0pt;border-top:none'=
+>4</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>15604012=
+</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>LÊ TH�=
+� LOAN</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>F</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>01</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>0946 224=
+689</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>296</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>01-06-20=
+15</td>
+  <td class=3Dxl6828143 style=3D'border-top:none;border-left:none'>15-06-19=
+86</td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl6428143 style=3D'height:15.0pt'></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6728143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl6428143 style=3D'height:15.0pt'></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl6428143 style=3D'height:15.0pt'></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl6428143 style=3D'height:15.0pt'></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl6428143 style=3D'height:15.0pt'></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl6428143 style=3D'height:15.0pt'></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+ </tr>
+ <tr height=3D20 style=3D'height:15.0pt'>
+  <td height=3D20 class=3Dxl6428143 style=3D'height:15.0pt'></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6728143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+  <td class=3Dxl6428143></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D140 style=3D'width:105pt'></td>
+  <td width=3D188 style=3D'width:141pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D105 style=3D'width:79pt'></td>
+  <td width=3D130 style=3D'width:98pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D110 style=3D'width:83pt'></td>
+  <td width=3D101 style=3D'width:76pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>
+
+</html>

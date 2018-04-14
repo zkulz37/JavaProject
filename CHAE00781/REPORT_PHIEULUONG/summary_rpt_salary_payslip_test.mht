@@ -1,0 +1,3228 @@
+MIME-Version: 1.0
+X-Document-Type: Worksheet
+Content-Location: file:///C:/262BA2D4/summary_rpt_salary_payslip_test.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8">
+<meta name=3DProgId content=3DExcel.Sheet>
+<meta name=3DGenerator content=3D"Microsoft Excel 15">
+<link rel=3DFile-List href=3D"summary_rpt_salary_payslip_test_files/filelis=
+t.xml">
+<style id=3D"summary_rpt_salary_payslip_test_32706_Styles"><!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.font532706
+	{color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;}
+.font632706
+	{color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;}
+.font732706
+	{color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;}
+.font832706
+	{color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:italic;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;}
+.xl6532706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6632706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl6732706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl6832706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6932706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl7032706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl7132706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl7232706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7332706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl7432706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl7532706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl7632706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl7732706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl7832706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7932706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8032706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8132706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8232706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8332706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border-top:none;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8432706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8532706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:#FFCC00;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl8632706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8732706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl8832706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8932706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9032706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl9132706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9232706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9332706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:#FFCC00;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9432706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:#FFCC00;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9532706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#FFCC00;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9632706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9732706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl9832706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9932706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl10032706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt hairline windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl10132706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl10232706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:none;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10332706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl10432706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl10532706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl10632706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10732706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl10832706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#FFCC00;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl10932706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:#FFCC00;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl11032706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#FFCC00;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl11132706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:1.0pt solid windowtext;
+	background:#FFCC00;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl11232706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:#FFCC00;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl11332706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:#FFCC00;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl11432706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:#FFCC00;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl11532706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:1.0pt solid windowtext;
+	border-left:none;
+	background:#FFCC00;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl11632706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl11732706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#FFCC00;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl11832706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:1.0pt solid windowtext;
+	border-right:1.0pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#FFCC00;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl11932706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#FFCC00;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl12032706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:#FFCC00;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl12132706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:#FFCC00;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl12232706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border:.5pt solid windowtext;
+	background:#FFCC00;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl12332706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl12432706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl12532706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl12632706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl12732706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl12832706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;
+	mso-text-control:shrinktofit;}
+.xl12932706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl13032706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:.5pt hairline windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl13132706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl13232706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl13332706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl13432706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl13532706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:left;
+	vertical-align:middle;
+	border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl13632706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:none;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl13732706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:none;
+	border-bottom:.5pt hairline windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl13832706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:none;
+	border-bottom:.5pt hairline windowtext;
+	border-left:.5pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl13932706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:none;
+	border-bottom:.5pt hairline windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl14032706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:.5pt solid windowtext;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl14132706
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:12.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Times New Roman", serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:right;
+	vertical-align:middle;
+	border-top:.5pt hairline windowtext;
+	border-right:none;
+	border-bottom:.5pt solid windowtext;
+	border-left:none;
+	background:white;
+	mso-pattern:black none;
+	white-space:nowrap;}
+--></style>
+</head>
+
+<body>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Excel's Publish as=
+ Web
+Page wizard.-->
+<!--If the same item is republished from Excel, all information between the=
+ DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div id=3D"summary_rpt_salary_payslip_test_32706" align=3Dcenter
+x:publishsource=3D"Excel">
+
+<table border=3D0 cellpadding=3D0 cellspacing=3D0 width=3D2835 class=3Dxl65=
+32706
+ style=3D'border-collapse:collapse;table-layout:fixed;width:2127pt'>
+ <col class=3Dxl6532706 width=3D324 style=3D'mso-width-source:userset;mso-w=
+idth-alt:
+ 11849;width:243pt'>
+ <col class=3Dxl6532706 width=3D160 style=3D'mso-width-source:userset;mso-w=
+idth-alt:
+ 5851;width:120pt'>
+ <col class=3Dxl6532706 width=3D226 style=3D'mso-width-source:userset;mso-w=
+idth-alt:
+ 8265;width:170pt'>
+ <col class=3Dxl6532706 width=3D73 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 2669;width:55pt'>
+ <col class=3Dxl6532706 width=3D89 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 3254;width:67pt'>
+ <col class=3Dxl6532706 width=3D43 style=3D'mso-width-source:userset;mso-wi=
+dth-alt:
+ 1572;width:32pt'>
+ <col class=3Dxl6532706 width=3D64 span=3D30 style=3D'width:48pt'>
+ <tr height=3D16 style=3D'mso-height-source:userset;height:12.0pt'>
+  <td colspan=3D5 height=3D16 class=3Dxl12732706 width=3D872 style=3D'heigh=
+t:12.0pt;
+  width:655pt'></td>
+  <td class=3Dxl6532706 width=3D43 style=3D'width:32pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+  <td class=3Dxl6532706 width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <tr height=3D30 style=3D'mso-height-source:userset;height:22.5pt'>
+  <td colspan=3D5 height=3D30 class=3Dxl11632706 style=3D'height:22.5pt'>PA=
+Y SLIP IN
+  F01 (PHIẾU LƯƠNG THÁNG F02)</td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+ </tr>
+ <tr height=3D22 style=3D'mso-height-source:userset;height:16.5pt'>
+  <td colspan=3D5 height=3D22 class=3Dxl12832706 style=3D'height:16.5pt'>H�=
+�� tên:
+  FULL_NAME</td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D27 style=3D'mso-height-source:userset;heigh=
+t:20.25pt'>
+  <td height=3D27 class=3Dxl6632706 style=3D'height:20.25pt'>Mã NV<span
+  style=3D'mso-spacerun:yes'>     </span>:<span
+  style=3D'mso-spacerun:yes'>    </span></td>
+  <td class=3Dxl6732706>F03</td>
+  <td colspan=3D3 class=3Dxl12932706 style=3D'border-right:.5pt solid black;
+  border-left:none'>Bộ phận<span style=3D'mso-spacerun:yes'>     �=
+�     
+  </span>:F04</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D27 style=3D'mso-height-source:userset;heigh=
+t:20.25pt'>
+  <td height=3D27 class=3Dxl6932706 style=3D'height:20.25pt;border-top:none=
+'>Ngày
+  vào<span style=3D'mso-spacerun:yes'>  </span>:<span
+  style=3D'mso-spacerun:yes'>  </span></td>
+  <td class=3Dxl7032706 style=3D'border-top:none'>F05</td>
+  <td colspan=3D3 class=3Dxl13232706 style=3D'border-right:.5pt solid black;
+  border-left:none'>Ngày nghỉ việc :F06</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D7 style=3D'mso-height-source:userset;height=
+:5.25pt'>
+  <td height=3D7 class=3Dxl7132706 style=3D'height:5.25pt'>&nbsp;</td>
+  <td class=3Dxl7132706>&nbsp;</td>
+  <td class=3Dxl7232706></td>
+  <td class=3Dxl7332706></td>
+  <td class=3Dxl7332706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D27 style=3D'mso-height-source:userset;heigh=
+t:20.25pt'>
+  <td height=3D27 class=3Dxl7432706 style=3D'height:20.25pt'>Lương cơ b�=
+��n thử việc<font
+  class=3D"font732706"> (Probation Basic Salary)</font></td>
+  <td class=3Dxl7432706 style=3D'border-left:none'>F07</td>
+  <td colspan=3D2 class=3Dxl13532706 style=3D'border-left:none'>Lương cơ=
+ bản chính
+  thức<font class=3D"font732706"> (Official Basic Salary)</font></td>
+  <td class=3Dxl7532706 style=3D'border-left:none'>F08</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D27 style=3D'mso-height-source:userset;heigh=
+t:20.25pt'>
+  <td height=3D27 class=3Dxl7632706 style=3D'height:20.25pt;border-top:none=
+'>Tổng phụ
+  cấp thử việc<font class=3D"font732706"> (Probation allowance)</font=
+></td>
+  <td class=3Dxl7532706 style=3D'border-left:none'>F09</td>
+  <td colspan=3D2 class=3Dxl12532706 style=3D'border-left:none'>Tổng ph�=
+� cấp chính
+  thức <font class=3D"font732706">(Official Allowance)</font></td>
+  <td class=3Dxl7732706 style=3D'border-top:none;border-left:none'>F10</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl8032706 height=3D25 style=3D'mso-height-source:userset;heigh=
+t:19.15pt'>
+  <td height=3D25 class=3Dxl7832706 style=3D'height:19.15pt;border-top:none=
+'>Ngày
+  công trong tháng <font class=3D"font732706">(Working day of month)</fon=
+t></td>
+  <td class=3Dxl7932706 style=3D'border-top:none;border-left:none'>F11</td>
+  <td colspan=3D2 class=3Dxl12632706 style=3D'border-left:none'>Ngày công=
+ thực tế <font
+  class=3D"font732706">(Real working day)</font></td>
+  <td class=3Dxl7932706 style=3D'border-top:none;border-left:none'>F12</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+ </tr>
+ <tr class=3Dxl8032706 height=3D17 style=3D'mso-height-source:userset;heigh=
+t:13.15pt'>
+  <td height=3D17 class=3Dxl8132706 style=3D'height:13.15pt'>&nbsp;</td>
+  <td class=3Dxl8232706>&nbsp;</td>
+  <td class=3Dxl8332706>&nbsp;</td>
+  <td class=3Dxl8332706>&nbsp;</td>
+  <td class=3Dxl8432706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D28 style=3D'mso-height-source:userset;heigh=
+t:21.0pt'>
+  <td colspan=3D5 height=3D28 class=3Dxl12132706 style=3D'border-right:.5pt=
+ solid black;
+  height:21.0pt'>LƯƠNG NGÀY CÔNG VÀ LƯƠNG TĂNG CA (BASIC AND OVERTI=
+ME SALARY)</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D26 style=3D'mso-height-source:userset;heigh=
+t:20.1pt'>
+  <td height=3D26 class=3Dxl8532706 style=3D'height:20.1pt;border-top:none'=
+>Lương cơ
+  bản và tăng ca</td>
+  <td class=3Dxl8532706 style=3D'border-top:none;border-left:none'>Thử vi=
+ệc</td>
+  <td class=3Dxl8532706 style=3D'border-top:none;border-left:none'>Chính t=
+hức</td>
+  <td class=3Dxl8532706 style=3D'border-top:none;border-left:none'>Đơn v�=
+��</td>
+  <td class=3Dxl8532706 style=3D'border-top:none;border-left:none'>Thành t=
+iền</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D26 style=3D'mso-height-source:userset;heigh=
+t:20.1pt'>
+  <td height=3D26 class=3Dxl8632706 style=3D'height:20.1pt;border-top:none'=
+>Lương
+  ngày công <font class=3D"font732706">(Basic salary)</font></td>
+  <td class=3Dxl8732706 style=3D'border-top:none;border-left:none'>F13</td>
+  <td class=3Dxl8732706 style=3D'border-top:none;border-left:none'>F14</td>
+  <td class=3Dxl8832706 style=3D'border-top:none;border-left:none'>Giờ</t=
+d>
+  <td class=3Dxl8632706 style=3D'border-top:none;border-left:none'>F15</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D26 style=3D'mso-height-source:userset;heigh=
+t:20.1pt'>
+  <td height=3D26 class=3Dxl8932706 style=3D'height:20.1pt;border-top:none'=
+>Nghỉ phép
+  năm (<font class=3D"font732706">ALE Absence</font><font class=3D"font532=
+706">)</font></td>
+  <td class=3Dxl8932706 style=3D'border-top:none;border-left:none'>F16</td>
+  <td class=3Dxl9032706 style=3D'border-top:none;border-left:none'>F17</td>
+  <td class=3Dxl9132706 style=3D'border-top:none;border-left:none'>Ngày</t=
+d>
+  <td class=3Dxl8932706 style=3D'border-top:none;border-left:none'>F18</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D26 style=3D'mso-height-source:userset;heigh=
+t:20.1pt'>
+  <td height=3D26 class=3Dxl8932706 style=3D'height:20.1pt;border-top:none'=
+>Ngày vắng
+  khác (Other Absence)</td>
+  <td class=3Dxl8932706 style=3D'border-top:none;border-left:none'>F19</td>
+  <td class=3Dxl9032706 style=3D'border-top:none;border-left:none'>F20</td>
+  <td class=3Dxl9132706 style=3D'border-top:none;border-left:none'>Giờ</t=
+d>
+  <td class=3Dxl8932706 style=3D'border-top:none;border-left:none'>F21</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D26 style=3D'mso-height-source:userset;heigh=
+t:20.1pt'>
+  <td height=3D26 class=3Dxl8932706 style=3D'height:20.1pt;border-top:none'=
+>Tăng ca
+  thường (Week day <font class=3D"font732706">OT 1.5</font><font
+  class=3D"font532706">)</font></td>
+  <td class=3Dxl8932706 style=3D'border-top:none;border-left:none'>F22</td>
+  <td class=3Dxl9032706 style=3D'border-top:none;border-left:none'>F23</td>
+  <td class=3Dxl9132706 style=3D'border-top:none;border-left:none'>Giờ</t=
+d>
+  <td class=3Dxl8932706 style=3D'border-top:none;border-left:none'>F24</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D26 style=3D'mso-height-source:userset;heigh=
+t:20.1pt'>
+  <td height=3D26 class=3Dxl8932706 style=3D'height:20.1pt;border-top:none'=
+>Tăng ca
+  CN (Sunday <font class=3D"font732706">OT 2.0</font><font class=3D"font532=
+706">)</font></td>
+  <td class=3Dxl8932706 style=3D'border-top:none;border-left:none'>F25</td>
+  <td class=3Dxl9032706 style=3D'border-top:none;border-left:none'>F26</td>
+  <td class=3Dxl9132706 style=3D'border-top:none;border-left:none'>Giờ</t=
+d>
+  <td class=3Dxl8932706 style=3D'border-top:none;border-left:none'>F27</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D26 style=3D'mso-height-source:userset;heigh=
+t:20.1pt'>
+  <td height=3D26 class=3Dxl8932706 style=3D'height:20.1pt;border-top:none'=
+>Tăng ca
+  Lễ (Holiday <font class=3D"font732706">OT 3.0</font><font class=3D"font=
+532706">)</font></td>
+  <td class=3Dxl8932706 style=3D'border-top:none;border-left:none'>F28</td>
+  <td class=3Dxl9032706 style=3D'border-top:none;border-left:none'>F29</td>
+  <td class=3Dxl9132706 style=3D'border-top:none;border-left:none'>Giờ</t=
+d>
+  <td class=3Dxl8932706 style=3D'border-top:none;border-left:none'>F30</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D26 style=3D'mso-height-source:userset;heigh=
+t:20.1pt'>
+  <td colspan=3D4 height=3D26 class=3Dxl12332706 style=3D'height:20.1pt'>T�=
+��ng Lương
+  ngày công và phụ cấp <font class=3D"font832706">(Total of Basic sa=
+lary and
+  allowance)</font></td>
+  <td class=3Dxl9232706>&nbsp;</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D25 style=3D'mso-height-source:userset;heigh=
+t:19.15pt'>
+  <td height=3D25 class=3Dxl9332706 style=3D'height:19.15pt;border-top:none=
+'>Tổng
+  (Total)</td>
+  <td class=3Dxl9432706 style=3D'border-top:none;border-left:none'>&nbsp;</=
+td>
+  <td class=3Dxl9532706 style=3D'border-top:none'>&nbsp;</td>
+  <td colspan=3D2 class=3Dxl11932706 style=3D'border-right:.5pt solid black=
+'>F31</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl8032706 height=3D9 style=3D'mso-height-source:userset;height=
+:6.75pt'>
+  <td height=3D9 class=3Dxl9632706 style=3D'height:6.75pt'>&nbsp;</td>
+  <td class=3Dxl9632706>&nbsp;</td>
+  <td class=3Dxl9632706>&nbsp;</td>
+  <td class=3Dxl9732706>&nbsp;</td>
+  <td class=3Dxl9732706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl8032706>&nbsp;</td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D27 style=3D'mso-height-source:userset;heigh=
+t:20.45pt'>
+  <td colspan=3D5 height=3D27 class=3Dxl12132706 style=3D'border-right:.5pt=
+ solid black;
+  height:20.45pt'>KHẤU TRỪ (DEDUCT)</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D24 style=3D'mso-height-source:userset;heigh=
+t:18.6pt'>
+  <td height=3D24 class=3Dxl9832706 style=3D'height:18.6pt;border-top:none'=
+>Thu nhập
+  chịu thuế(<font class=3D"font732706">Payable Income</font><font
+  class=3D"font532706">)</font></td>
+  <td class=3Dxl9932706 style=3D'border-top:none'><span
+  style=3D'mso-spacerun:yes'>                       =
+                </span><span
+  style=3D'display:none'><span style=3D'mso-spacerun:yes'>      </spa=
+n></span></td>
+  <td class=3Dxl10032706 style=3D'border-top:none'>F32</td>
+  <td class=3Dxl10032706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl10132706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D24 style=3D'mso-height-source:userset;heigh=
+t:18.6pt'>
+  <td height=3D24 class=3Dxl10232706 style=3D'height:18.6pt;border-top:none=
+'>Vi phạm
+  HĐ (<font class=3D"font732706">Break Contract</font><font class=3D"font5=
+32706">)</font></td>
+  <td class=3Dxl9132706 style=3D'border-top:none'>Số ngày</td>
+  <td class=3Dxl8932706 style=3D'border-top:none;border-left:none'>F33</td>
+  <td class=3Dxl9132706 style=3D'border-top:none;border-left:none'>Số ti�=
+��n</td>
+  <td class=3Dxl8932706 style=3D'border-top:none;border-left:none'>F34</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D24 style=3D'mso-height-source:userset;heigh=
+t:18.6pt'>
+  <td height=3D24 class=3Dxl10232706 style=3D'height:18.6pt;border-top:none=
+'>BHXH
+  &amp; BHYT (<font class=3D"font732706">Insurance AMT</font><font
+  class=3D"font532706">)</font></td>
+  <td class=3Dxl13632706 style=3D'border-top:none'>F35</td>
+  <td class=3Dxl13732706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl13732706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl10332706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D24 style=3D'mso-height-source:userset;heigh=
+t:18.6pt'>
+  <td height=3D24 class=3Dxl10232706 style=3D'height:18.6pt;border-top:none=
+'>BH Thất
+  nghiệp (<font class=3D"font732706">Unemployee Ins (1%)</font><font
+  class=3D"font532706">)</font></td>
+  <td class=3Dxl13632706 style=3D'border-top:none'>F36</td>
+  <td class=3Dxl13732706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl13732706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl10332706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D24 style=3D'mso-height-source:userset;heigh=
+t:18.6pt'>
+  <td height=3D24 class=3Dxl10232706 style=3D'height:18.6pt;border-top:none=
+'>Tiền
+  công đoàn (Trade Union)</td>
+  <td class=3Dxl13632706 style=3D'border-top:none'>F37</td>
+  <td class=3Dxl13732706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl13732706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl10432706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D24 style=3D'mso-height-source:userset;heigh=
+t:18.6pt'>
+  <td height=3D24 class=3Dxl10232706 style=3D'height:18.6pt;border-top:none=
+'>Trừ thẻ
+  Bảo hiểm (<font class=3D"font732706">Deduct Health card</font><font
+  class=3D"font532706">)</font></td>
+  <td class=3Dxl13632706 style=3D'border-top:none'>F38</td>
+  <td class=3Dxl13732706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl13732706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl10332706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl8032706>&nbsp;</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D24 style=3D'mso-height-source:userset;heigh=
+t:18.6pt'>
+  <td height=3D24 class=3Dxl10232706 style=3D'height:18.6pt;border-top:none=
+'>Thuế thu
+  nhập (<font class=3D"font732706">Income Tax</font><font class=3D"font53=
+2706">)</font></td>
+  <td class=3Dxl13832706 style=3D'border-top:none'>F39</td>
+  <td class=3Dxl13932706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl13932706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl10532706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D24 style=3D'mso-height-source:userset;heigh=
+t:18.6pt'>
+  <td height=3D24 class=3Dxl10632706 style=3D'height:18.6pt;border-top:none=
+'>Trừ khác
+  (<font class=3D"font732706">Other Ded (No PIT)</font><font class=3D"font5=
+32706">)</font></td>
+  <td class=3Dxl14032706 style=3D'border-top:none'>F40</td>
+  <td class=3Dxl14132706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl14132706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl10732706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D28 style=3D'mso-height-source:userset;heigh=
+t:21.0pt'>
+  <td height=3D28 class=3Dxl9432706 style=3D'height:21.0pt;border-top:none'=
+>Tổng khấu
+  trừ (Total Deduct)</td>
+  <td colspan=3D4 class=3Dxl12232706>F41</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D10 style=3D'mso-height-source:userset;heigh=
+t:7.5pt'>
+  <td colspan=3D5 height=3D10 class=3Dxl11632706 style=3D'height:7.5pt'></t=
+d>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D24 style=3D'mso-height-source:userset;heigh=
+t:18.6pt'>
+  <td height=3D24 class=3Dxl10832706 style=3D'height:18.6pt'>Thực lãnh (=
+<font
+  class=3D"font832706">Net Salary</font><font class=3D"font632706">)</font>=
+</td>
+  <td class=3Dxl10932706>&nbsp;</td>
+  <td class=3Dxl11032706>F42</td>
+  <td colspan=3D2 class=3Dxl11732706 style=3D'border-right:1.0pt solid blac=
+k'>&nbsp;</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr class=3Dxl6832706 height=3D24 style=3D'mso-height-source:userset;heigh=
+t:18.6pt'>
+  <td height=3D24 class=3Dxl11132706 style=3D'height:18.6pt;border-top:none=
+'>Phép năm
+  còn lại tính đến tháng hiện tại <font class=3D"font832706">(R=
+emai</font><span
+  style=3D'display:none'><font class=3D"font832706">ning A.L)</font></span>=
+</td>
+  <td class=3Dxl11232706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl11332706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl11432706 style=3D'border-top:none'>F43</td>
+  <td class=3Dxl11532706 style=3D'border-top:none'>&nbsp;</td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+  <td class=3Dxl6832706></td>
+ </tr>
+ <tr height=3D33 style=3D'page-break-before:always;mso-height-source:userse=
+t;
+  height:24.95pt'>
+  <td height=3D33 class=3Dxl6532706 style=3D'height:24.95pt'></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+  <td class=3Dxl6532706></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=3D0 style=3D'display:none'>
+  <td width=3D324 style=3D'width:243pt'></td>
+  <td width=3D160 style=3D'width:120pt'></td>
+  <td width=3D226 style=3D'width:170pt'></td>
+  <td width=3D73 style=3D'width:55pt'></td>
+  <td width=3D89 style=3D'width:67pt'></td>
+  <td width=3D43 style=3D'width:32pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+  <td width=3D64 style=3D'width:48pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>
+
+</html>
+
