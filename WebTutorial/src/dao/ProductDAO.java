@@ -56,6 +56,44 @@ public class ProductDAO {
 
 	}
 
+	public Product getProduct(int prod_id) throws ClassNotFoundException, SQLException {
+
+		Product product = new Product();
+		String SQL = "select * from s_product where product_id = '" + prod_id + "'";
+
+		// 1st : get connection
+		Connection connection = ConnectionUtils.getMyConnection();
+
+		// 2nd : tao doi tuong Statement
+		Statement statement = connection.createStatement();
+
+		// 3rd : get resultset
+		ResultSet rs = statement.executeQuery(SQL);
+
+		while (rs.next()) {
+
+			int product_id = rs.getInt(1);
+			int category_id = rs.getInt(2);
+			String product_name = rs.getString(3);
+			String product_image = rs.getString(4);
+			long product_price = rs.getLong(5);
+			String product_description = rs.getString(6);
+
+			// System.out.println("ID ==" + category_id);
+			// System.out.println("Name ==" + category_name);
+
+			product.setProductID(product_id);
+			product.setCategoryID(category_id);
+			product.setProductName(product_name);
+			product.setProductImage(product_image);
+			product.setProductPrice(product_price);
+			product.setProductDescription(product_description);
+
+		}
+		return product;
+
+	}
+
 	public static void main(String[] args) throws ClassNotFoundException, SQLException {
 
 		int id = 1;
